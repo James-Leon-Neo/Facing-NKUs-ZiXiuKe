@@ -1,0 +1,41 @@
+a:hover
+{
+	text-decoration:none;
+}
+.whiteline
+{
+	color:white;
+}
+#wrapper
+{
+	width:1000px;
+	_width:auto;
+	margin:0px auto;
+	text-align:center;
+}
+#header
+{
+	background-color:#9dc870;
+	_width:1000px;
+	color:white;
+}
+#main
+{
+	_width:1000px;
+	_margin-top:15px;
+	text-align:left;
+}
+#side
+{
+	float:left;
+	width:160px;
+}
+#content
+{
+	float:left;
+	width:840px;
+}
+#footer
+{
+	_width:1000px;
+}
